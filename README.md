@@ -15,19 +15,19 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants installés sur 
 Suivez ces étapes pour installer et configurer l'application sur votre machine locale.
 
 1. Clonez le dépôt GitHub sur votre machine locale :
- ```bash
+```bash
 git clone https://github.com/MaximeGoubault/Projet-R-D-application-Controlleur.git
 
 2. Se déplacer dans le dossier :
- ```bash
+```bash
 cd Projet-R-D-application-Controlleur
 
 3. Installer les dépendances :
- ```bash
+```bash
 npm install
 
 4. Lancer le projet
- ```bash
+```bash
 npm start
 
 ## Captures d'écran :
