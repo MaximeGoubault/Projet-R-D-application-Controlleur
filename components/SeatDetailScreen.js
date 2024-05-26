@@ -33,7 +33,7 @@ const SeatDetailScreen = ({ route }) => {
         <Text style={styles.text}>Arrivé : {endLocation}</Text>
         <Text style={styles.text}>Heure : {tripTime}</Text>
         {/* Assurez-vous que le chemin d'accès et la clé sont corrects pour votre logo */}
-        <Image source={companyLogos['VotreCompagnie']} style={styles.logo} />
+        <Image source={companyLogos['SNCF']} style={styles.logo} />
       </View>
 
       <View style={styles.infoBlock}>
