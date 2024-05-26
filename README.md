@@ -1,79 +1,41 @@
 
-# Mon Application Node.js
-
+# Application Controlleur - Projet R&D Polytech Nantes
 ## Description
-
-Cette application Node.js est un projet qui [brève description de ce que fait votre application]. Elle permet de [décrire les fonctionnalités principales]. C'est un projet utile pour [décrire les cas d'utilisation ou les bénéfices principaux].
+Cette application React est un projet réalisé dans le cadre d'une preuve de concept. Le but est d'imaginer une voiture de train connectée avec des nouvelles fonctionnalités améliorant l'expérience utilisateur et l'efficacité des contrôleurs. L'application fonctionne de pair avec l'application client https://github.com/MaximeGoubault/Projet-R-D-application-Client.
 
 ## Fonctionnalités
-
-- Fonctionnalité 1 : Description de la fonctionnalité 1.
-- Fonctionnalité 2 : Description de la fonctionnalité 2.
-- Fonctionnalité 3 : Description de la fonctionnalité 3.
+- Fonctionnalité 1 : Liste des trajets
+- Fonctionnalité 2 : Affichage de l'état des sièges par wagons
+- Fonctionnalité 3 : Informations complémentaires d'un ticket
 
 ## Prérequis
-
 Avant de commencer, assurez-vous d'avoir les éléments suivants installés sur votre machine :
-
-- [Node.js](https://nodejs.org/) (version X.X.X ou supérieure)
-- [npm](https://www.npmjs.com/) (version X.X.X ou supérieure)
-
+- [Node.js](https://nodejs.org/) (version 18.18.0 ou supérieure)
+  
 ## Installation
-
 Suivez ces étapes pour installer et configurer l'application sur votre machine locale.
 
 1. Clonez le dépôt GitHub sur votre machine locale :
-
    ```bash
-   git clone https://github.com/votre-utilisateur/nom-du-repo.git
+   git clone https://github.com/MaximeGoubault/Projet-R-D-application-Controlleur.git
    ```
 
-2. Accédez au répertoire du projet :
-
+2. Déplacez-vous dans le dossier du projet :
    ```bash
-   cd nom-du-repo
+   cd Projet-R-D-application-Controlleur
    ```
 
-3. Installez les dépendances nécessaires à l'aide de npm :
-
+3. Installez les dépendances :
    ```bash
    npm install
    ```
 
-## Utilisation
+4. Lancez le projet :
+   ```bash
+   npm start
+   ```
 
-Une fois les dépendances installées, vous pouvez lancer l'application en utilisant la commande suivante :
-
-```bash
-npm start
-```
-
-Cette commande démarre le serveur et l'application sera accessible à l'adresse [http://localhost:3000](http://localhost:3000).
-
-## Scripts npm
-
-Voici une liste des scripts npm disponibles pour cette application :
-
-- `npm start` : Démarre le serveur.
-- `npm test` : Exécute les tests.
-- `npm run build` : Construit le projet pour la production.
-- `npm run lint` : Analyse le code pour détecter les problèmes de style et de syntaxe.
-
-## Contribuer
-
-Les contributions sont les bienvenues ! Si vous souhaitez contribuer, veuillez suivre les étapes ci-dessous :
-
-1. Forkez le dépôt.
-2. Créez une branche pour votre fonctionnalité (`git checkout -b feature/nom-de-la-fonctionnalité`).
-3. Commitez vos modifications (`git commit -m 'Ajout de la fonctionnalité'`).
-4. Poussez votre branche (`git push origin feature/nom-de-la-fonctionnalité`).
-5. Ouvrez une Pull Request.
-
-## Licence
-
-Ce projet est sous licence [Nom de la licence](LICENSE).
-
-## Acknowledgements
-
-- Remerciements spéciaux à [nom de la personne ou organisation] pour [raison du remerciement].
-- [Autres reconnaissances ou remerciements].
+## Captures d'écran :
+![image](https://github.com/MaximeGoubault/Projet-R-D-application-Controlleur/assets/150132808/cd87d91b-5461-48e5-aa8b-870dbc2b75c2)
+![image](https://github.com/MaximeGoubault/Projet-R-D-application-Controlleur/assets/150132808/9b751707-97bd-4d44-b15a-28fe78458f83)
+![image](https://github.com/MaximeGoubault/Projet-R-D-application-Controlleur/assets/150132808/7baed216-1b36-4a6c-8ce2-a9147e868f6a)
