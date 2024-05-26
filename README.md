@@ -39,3 +39,4 @@ Suivez ces étapes pour installer et configurer l'application sur votre machine 
 ![image](https://github.com/MaximeGoubault/Projet-R-D-application-Controlleur/assets/150132808/cd87d91b-5461-48e5-aa8b-870dbc2b75c2)
 ![image](https://github.com/MaximeGoubault/Projet-R-D-application-Controlleur/assets/150132808/9b751707-97bd-4d44-b15a-28fe78458f83)
 ![image](https://github.com/MaximeGoubault/Projet-R-D-application-Controlleur/assets/150132808/7baed216-1b36-4a6c-8ce2-a9147e868f6a)
+![image](https://github.com/MaximeGoubault/Projet-R-D-application-Controlleur/assets/150132808/3b44141d-72f6-4d17-b2b8-54c8d4e2710c)
